@@ -1,0 +1,12 @@
+C:\Users\nicok\source\repos\Programacion\Console\Parcial\Recu\Recuperatorio\obj\Debug\Recuperatorio.csproj.AssemblyReference.cache
+C:\Users\nicok\source\repos\Programacion\Console\Parcial\Recu\Recuperatorio\obj\Debug\Recuperatorio.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\Programacion\Console\Parcial\Recu\Recuperatorio\bin\Debug\Recuperatorio.exe.config
+C:\Users\nicok\source\repos\Programacion\Console\Parcial\Recu\Recuperatorio\bin\Debug\Recuperatorio.exe
+C:\Users\nicok\source\repos\Programacion\Console\Parcial\Recu\Recuperatorio\bin\Debug\Recuperatorio.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Parcial\Recu\Recuperatorio\bin\Debug\Domain.dll
+C:\Users\nicok\source\repos\Programacion\Console\Parcial\Recu\Recuperatorio\bin\Debug\Logic.dll
+C:\Users\nicok\source\repos\Programacion\Console\Parcial\Recu\Recuperatorio\bin\Debug\Domain.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Parcial\Recu\Recuperatorio\bin\Debug\Logic.pdb
+C:\Users\nicok\source\repos\Programacion\Console\Parcial\Recu\Recuperatorio\obj\Debug\Recupera.DD8A76B4.Up2Date
+C:\Users\nicok\source\repos\Programacion\Console\Parcial\Recu\Recuperatorio\obj\Debug\Recuperatorio.exe
+C:\Users\nicok\source\repos\Programacion\Console\Parcial\Recu\Recuperatorio\obj\Debug\Recuperatorio.pdb
